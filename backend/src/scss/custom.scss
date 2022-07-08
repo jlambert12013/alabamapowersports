@@ -1,0 +1,18 @@
+/* Color adjust - comment out ot remove the CSS error */
+
+$theme-colors: (
+  "primary": #dd4444,
+);
+$theme-colors: (
+  "primary": #dd4444,
+);
+
+// Create your own map
+$custom-colors: (
+  "powersports-light": #f2f2f2,
+);
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
