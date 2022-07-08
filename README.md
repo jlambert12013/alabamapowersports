@@ -5,14 +5,14 @@ I am creating a MERN, full-stack application for a dealership. I am using NEXT J
 
 
 FOR BACKEND DEVELOPMENT SERVER:
-## cd backend
-# npm install 
-# npm install -D
-# npm run dev
+cd backend
+npm install 
+npm install -D
+npm run dev
 
 FOR FRONTEND DEVELOPMENT SERVER RUN:
-# cd frontend
-# cd backend
-# npm install 
-# npm install -D
-# npm run dev
+cd frontend
+cd backend
+npm install 
+npm install -D
+npm run dev
